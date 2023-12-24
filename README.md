@@ -1,5 +1,5 @@
 # GestureDetector
-基于骨架信息的手语识别
+基于mediapipe的手语识别
 
 ## 非正式获取静态特征数据集（不推荐）：
 执行get_static_dataset.py，通过opencv调取摄像头捕捉图像，图像文件保存在static_photo_data文件夹，提取的特征文件保存在static_numpy_data文件夹
